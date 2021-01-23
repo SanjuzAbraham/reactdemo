@@ -1,0 +1,10 @@
+.logo-container .logo{
+    width: 100%;
+    height: 100%;
+}
+.login-container{
+    display: flex;
+    justify-content: center;
+    flex-direction: row-reverse;
+    background-color: #FF9C6D;
+}
